@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "I'M YOUR IDOL",
+  "base_artist": "高嶺のなでしこ",
+  "createdAt": "2026-03-30T14:34:35.891185Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm your Idol",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/01_I'm_your_Idol_Necro.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Your Idol",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/02_I'm_Your_Idol_Necro.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Your Idol",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/03_I'm_Your_Idol_Necro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Your Idol - Necro",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/04_I'm_Your_Idol_-_Necro_Necro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'M YOUR IDOL",
+      "artist": "高嶺のなでしこ",
+      "has_synced": false,
+      "path": "select/pl_01_I'M_YOUR_IDOL_高嶺のなでしこ.txt"
+    }
+  ]
+}
